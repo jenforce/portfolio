@@ -1,2 +1,1 @@
-# bootstrapbasic
-basic portfolio using bootstrap
+# portfolio
