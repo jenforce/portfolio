@@ -1,0 +1,204 @@
+.container {
+  width: 960px;
+  height: 700px;
+  margin:15px;
+   background-image: url("../images/asanohapx.png");
+}
+.main{
+
+  width: 960px;
+  height: 100%;
+  
+.txtfnt{
+  font-family: Arial, Verdana;
+}
+header {
+  height: 95px;
+  background-color: white;
+  border-bottom: solid gray 2px;
+  }
+.main{
+  min-height: 100%;
+}
+
+.name {
+  float: left;
+  margin: 20px 0px 2px 60px;
+  padding: 25px 25px 25px 25px;
+  text-align: center;
+  font-size: 25;
+  color: #ffffff;
+  background-color: #4aaaa5;
+}
+.pglink{
+  float:right;
+  display: inline-block; 
+  margin:10px 0px 10px 0px;
+  padding: 0px 10px 0px 10px;
+  font-size: 14px;
+  color:gray;
+}
+.sdbrd{
+  border-left: 1px solid gray;
+  border-right: 1px solid gray;
+}
+.lnk{
+  text-decoration: none;
+  color: gray;
+  padding:40px;
+  margin-right: 20px
+}
+
+a:link{
+  color:gray;
+ text-decoration:none
+}
+a:visited{
+  color:gray;
+ text-decoration:none
+} 
+
+a:hover{color:pink; 
+ text-decoration:underline
+}
+a:active{
+color:yellow;
+ text-decoration:underline
+}
+.sidebar{
+  min-height: 100%;
+  width: 270px;
+  float:right;
+}
+.connect{
+  position: relative;
+  top:60px;
+  height:120px;
+  width: 170px;
+  padding:10px;
+  background-color: white;
+}
+
+.about{
+  float:left;
+  margin:60px;
+  height:460px; 
+  width:550; 
+  background-color: white;
+}
+.habout{
+  padding:20px 20px 20px 15px;
+  border-bottom:1px solid gray;
+  margin-left: 25px;
+  width: 475px;
+  font-size: 30px;
+  color:gray;
+}
+
+.jpic{
+  float:left;
+  margin:25px;
+}
+
+.bio{
+     margin: 25px 25px 0px 25px;
+    line-height: 20px;
+    font-size: 15px;
+  }
+
+.hconnect{
+  margin: 20px 20px 10px 20px;
+  border-bottom: solid gray 1px;
+  padding-bottom: 10px;
+  font-style: bold;
+  color:gray;
+}
+
+.mlink{
+  margin: 0px 20px 20px 20px;
+  padding-bottom: 40px;
+}
+.cntlnk{
+float:left;
+margin: 3px;
+}
+
+.contactctnr{
+  float:left;
+  padding: 20px;
+  width: 470px;
+  background-color: white;
+  margin: 60px;
+}
+
+.hcontact{
+  font-size: 30px;
+  border-bottom: solid gray 1px;
+  color: #4aaaa5;
+  padding: 10px
+  }
+.frmlable{
+  color: gray;
+  font-size: 15px;
+  margin:15px;
+}
+.tblspc{
+margin: 15px;
+}
+
+#textareafrmt{
+  border:solid gray;
+  color: gray;
+}
+.portfolio {
+  min-height: 100%;
+  width: 475px;
+  float: right;
+  padding:25px;
+  
+}
+.tile {
+  height: 150px;
+  width: 200px;
+   float:left;
+  position:relative;
+  margin:15px;
+}
+.piclable {
+  border: green solid;
+
+  width: 200px;
+  position:relative;
+  bottom:45px;
+  right:3px;
+  padding: 7px 0px 7px 0px;
+  background-color: teal;
+  color: white;
+  text-align: center;
+
+}
+
+
+
+button {
+    background-color:teal;
+    color:white;
+  }
+
+footer{
+  position: absolute;
+  top:650px;
+  height: 85px;
+  width: 960px;
+  border-top: 8px solid #4aaaa5;
+  background-color: gray;
+  font-size: 10px;
+  color: white;
+}
+.fdiv{
+  padding: 45px 20px 20px 20px;
+  text-align: center;
+  text-decoration: none;
+}
+
+
